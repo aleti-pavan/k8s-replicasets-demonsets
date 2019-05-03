@@ -1,2 +1,6 @@
 # k8s-replicasets-demonsets
-This repository contains example yaml manifests for kubernetes ReplicaSet and DemonSet
+
+ReplicaSet:
+----------
+
+Replica Set ensures how many replica of pod should be running. It can be considered as a replacement of replication controller.
