@@ -1,0 +1,2 @@
+kind: ReplicaSet
+apiVersion: v1
